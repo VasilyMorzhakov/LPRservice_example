@@ -1,7 +1,7 @@
 # LPRservice_example
 An example of using our LPR server
 
-To run, you have python3 installed (or python2, just choose another import in the script)
+To run, you need python3 installed (or python2, just choose another import in the script)
 
 Then, export environmental variables: LPR_GATE,LPR_SERVER,LPR_PORT, we provide.
 
