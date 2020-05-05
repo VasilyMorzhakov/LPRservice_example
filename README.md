@@ -12,7 +12,7 @@ export LPR_SERVER="*****"
 export LPR_PORT="*****"
 ```
 
-or in Windows:
+or on Windows:
 ```
 set LPR_GATE=****
 set LPR_SERVER=****
